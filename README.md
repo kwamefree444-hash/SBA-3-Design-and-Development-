@@ -8,97 +8,84 @@ Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
+# Frontend Mentor - Fylo data storage component solution
 
-## The challenge
+This is a solution to the [Fylo data storage component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-Your challenge is to build out this data storage component and get it looking as close to the design as possible.
+## Table of contents
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+  - [AI Collaboration](#ai-collaboration)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-Your users should be able to:
+
+## Overview
+
+I completed a Frontend Mentor challenge where I focused on building a responsive website using HTML and CSS. This project helped me strengthen my layout, styling, and problem-solving skills while turning a design into a functional webpage. It also gave me more hands-on experience with front-end development and attention to detail.
+
+### The challenge
+
+Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
-### Want some support on the challenge? 
+### Screenshot
 
-[Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
+<img width="2430" height="1214" alt="Screenshot 2026-11-18 203656" src="https://github.com/user-attachments/assets/dc7562a3-a5ec-4fa9-9001-c5187135bcb0" />
 
-## Where to find everything
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
 
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
 
-If you would like the Figma design file to inspect the design in more detail, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
+### Links
 
-You will find all the required assets in the `/images` folder. The assets are already optimized.
+- Live Site URL: (http://127.0.0.1:5500/index.html)
+## My process
+My development process involved researching solutions to issues I encountered in my code and looking up CSS classes for elements and features I wanted to incorporate. I then referenced the Tailwind CSS documentation to find the appropriate utility classes and understand how to apply them to my design. 
 
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
+### Built with
 
-## Using AI coding assistants
+- Semantic HTML5 markup
+- Flexbox
+- Tailwind CSS
 
-We've included two files to help you if you're using AI coding assistants (like Claude, GitHub Copilot, Cursor, etc.) while working on this challenge:
+### What I learned
 
-- `AGENTS.md` - Contains detailed instructions for AI assistants on how to help you with this challenge. It's tailored to this challenge's difficulty level, so the AI will provide guidance appropriate to your learning stage—offering more support for beginner challenges and encouraging more independence on advanced ones.
-- `CLAUDE.md` - A pointer file that directs Claude-based tools to the AGENTS.md instructions.
+Through this challenge, I learned how to use Tailwind CSS utility classes to style and structure a webpage more efficiently. I gained a better understanding of how to apply spacing, sizing, positioning, and colors. I also improved my ability to troubleshoot code, research solutions independently, and use documentation to find the right tools for the job. This experience helped me become more comfortable working with Tailwind CSS and strengthened my problem-solving skills as a developer
 
-**How to use them:** You don't need to do anything! These files are automatically detected by most AI coding tools. The AI will read them and adjust its behavior to be a better learning partner—guiding you toward solutions rather than just giving you the answers.
 
-**Note:** These files are designed to help you *learn*, not to do the work for you. The AI is instructed to ask questions, give hints, and explain concepts rather than writing complete solutions.
+I was particularly proud of this section of code because it allowed me to apply knowledge I had previously learned to solve a problem I was struggling with. By experimenting with Tailwind CSS utility classes, I was able to adjust the background image, positioning, sizing, spacing, and overall layout to achieve the result I wanted. It was rewarding to use my existing knowledge to troubleshoot the issue independently and bring my design closer to the intended look.
 
-## Building your project
 
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
 
-1. Initialize your project as a public repository on [GitHub](https://github.com/). Creating a repo will make it easier to share your code with the community if you need help. If you're not sure how to do this, [have a read-through of this Try Git resource](https://try.github.io/).
-2. Configure your repository to publish your code to a web address. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, and we provide some recommendations below.
-3. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes to create reusable styles.
-4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
-5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
-6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
+<div  class="flex h-[185px] w-[600px] bg-[hsl(228,56%,26%)] -mt-[3px] -ml-[200px] rounded-[10px_10px_10px_10px] bg-[url('./images/loading.png')] bg-initial bg-no-repeat   bg-[length:400px_25px] bg-[position:25px_100px] ">
 
-## Deploying your project
 
-As mentioned above, there are many ways to host your project for free. Our recommended hosts are:
+### Continued development
 
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
 
-You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://www.frontendmentor.io/guides/hosting-your-solution).
+Moving forward, I plan to continue strengthening my front-end development skills by practicing HTML, CSS, JavaScript, and Tailwind CSS through more challenging projects. I want to improve my ability to recreate designs accurately, write cleaner and more efficient code, and troubleshoot issues independently. I also plan to explore more advanced styling techniques, responsive design, and interactive features while continuing to use documentation and hands-on projects to build my confidence as a developer.
 
-## Create a custom `README.md`
+### Useful resources
 
-We strongly recommend overwriting this `README.md` with a custom one. We've provided a template inside the [`README-template.md`](./README-template.md) file in this starter code.
+- (https://tailwindcss.com) - The Tailwind CSS website was one of my most valuable resources throughout this challenge. It helped me identify the correct utility classes for the features I wanted to implement and understand how they worked. Whenever I encountered an issue or wanted to achieve a specific design, I used the documentation to research possible solutions and find the appropriate classes. This allowed me to learn independently, troubleshoot problems, and become more familiar with Tailwind CSS.
 
-The template provides a guide for what to add. A custom `README` will help you explain your project and reflect on your learnings. Please feel free to edit our template as much as you like.
+### AI Collaboration
 
-Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. That will make it show up as your repository's README file.
+I used ChatGPT as a resource throughout the challenge to help troubleshoot coding issues and explore ways to implement specific features into my website. When I wasn't sure how to achieve a particular result, I would describe what I was trying to accomplish or share the code I was having trouble with. ChatGPT helped narrow down my search by suggesting specific Tailwind CSS utility classes that matched what I needed. This made it easier to identify the right classes, understand how they worked, and then reference the official Tailwind CSS documentation for further clarification. It helped streamline my problem-solving process while allowing me to learn along the way.
 
-## Submitting your solution
+## Author
 
-Submit your solution on the platform for the rest of the community to see. Follow our ["Complete guide to submitting solutions"](https://www.frontendmentor.io/guides/how-to-submit-solutions) for tips on how to do this.
+- Website - [Kwame Freeman](http://127.0.0.1:5500/index.html)
 
-Remember, if you're looking for feedback on your solution, be sure to ask questions when submitting it. The more specific and detailed you are with your questions, the higher the chance you'll get valuable feedback from the community.
+## Acknowledgments
 
-## Sharing your solution
-
-There are multiple places you can share your solution:
-
-1. Share your solution page in the **#finished-projects** channel of the [community](https://www.frontendmentor.io/community). 
-2. Share on [X (formerly Twitter)](https://x.com/frontendmentor) and mention **@frontendmentor**, including the repo and live URLs in your post. We'd love to take a look at what you've built and help share it around.
-3. Share your solution on [LinkedIn](https://www.linkedin.com/company/frontend-mentor/).
-4. Blog about your experience building your project. Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned. Great platforms to write on are [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), and [CodeNewbie](https://community.codenewbie.org/).
-
-We provide templates to help you share your solution once you've submitted it on the platform. Please do edit them and include specific questions when you're looking for feedback. 
-
-The more specific you are with your questions the more likely it is that another member of the community will give you feedback.
-
-## Got feedback for us?
-
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
-
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
-
-**Have fun building!** 🚀
+A HUGE shout-out to my instructor, Paul! 🎉 Your guidance and encouragement helped me build the skills and confidence to tackle this Frontend Mentor challenge. The concepts you taught me came into play as I worked through coding issues, experimented with Tailwind CSS, and brought my design to life. I truly appreciate everything you've taught me and the foundation you've helped me build as a developer!
