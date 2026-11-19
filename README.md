@@ -82,6 +82,14 @@ Moving forward, I plan to continue strengthening my front-end development skills
 
 I used ChatGPT as a resource throughout the challenge to help troubleshoot coding issues and explore ways to implement specific features into my website. When I wasn't sure how to achieve a particular result, I would describe what I was trying to accomplish or share the code I was having trouble with. ChatGPT helped narrow down my search by suggesting specific Tailwind CSS utility classes that matched what I needed. This made it easier to identify the right classes, understand how they worked, and then reference the official Tailwind CSS documentation for further clarification. It helped streamline my problem-solving process while allowing me to learn along the way.
 
+
+### Reflection
+
+Throughout this project, one of my biggest challenges was recreating the design as accurately as possible while figuring out which Tailwind CSS utility classes to use. I occasionally ran into issues with spacing, positioning, background images, and sizing. To overcome these challenges, I researched solutions, used ChatGPT to narrow down specific utility classes, and referenced the official Tailwind CSS documentation to understand how they worked. I also applied concepts and techniques previously taught by my instructor, Paul, to troubleshoot problems independently.
+
+If I had more time, I would focus on refining the smaller design details, improving the responsiveness across different screen sizes, and making my code cleaner and more efficient. I would also like to experiment with more advanced Tailwind CSS features to expand my knowledge. Overall, this project helped me become more comfortable with front-end development and more confident in my ability to solve coding problems independently.
+
+
 ## Author
 
 - Website - [Kwame Freeman](http://127.0.0.1:5500/index.html)
